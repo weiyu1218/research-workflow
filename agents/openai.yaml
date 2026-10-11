@@ -1,0 +1,3 @@
+interface:
+  display_name: "科研工作流"
+  short_description: "管理科研项目、论文精读、复现、实验记录与会话交接"
